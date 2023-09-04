@@ -9,7 +9,7 @@ export default function Common(props) {
                         <a className="btn btn-outline-primary rounded-pill py-2 px-4" href={props.web}>{props.btnText}</a>
                     </div>
                     <div className="col">
-                        <img className='rounded w-75 pt-5 mx-md-auto' src={props.headerImage} />
+                        <img className='rounded w-75 pt-5 mx-md-auto' src={props.headerImage} alt="person" />
                     </div>
                 </div>
             </div>

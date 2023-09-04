@@ -1,4 +1,3 @@
-import Common from '../component/Common'
 export default function Contact() {
     return (
         <>
